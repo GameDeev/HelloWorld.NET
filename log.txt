@@ -1,0 +1,11 @@
+sql
+INSERT INTO TutorialAppSchema.Computer
+            (
+                Motherboard,
+                HasWifi,
+                HasLTE,
+                ReleaseDate,
+                Price,
+                VideoCard
+            ) VALUES ('Z690','True','False','5/21/2024 12:09:53 AM','943.86','RTX 2060')
+sql
